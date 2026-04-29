@@ -1,6 +1,6 @@
 # CyberNexis Nuclei Templates
 
-A curated collection of high-quality, **low false-positive**, and **safe-to-run** Nuclei templates developed by CyberNexis Ltd.
+A curated collection of high-quality, **low false-positive**, and **safe-to-run** Nuclei templates developed by CyberNexis
 
 ## 🎯 Purpose
 
@@ -39,7 +39,7 @@ nuclei -u https://target:2087 -t cpanel/
 
 ## 🧠 About CyberNexis
 
-CyberNexis Ltd is a UK-based cybersecurity company specializing in:
+CyberNexis is a UK-based cybersecurity company specializing in:
 
 * Red Teaming
 * Penetration Testing
@@ -49,6 +49,5 @@ CyberNexis Ltd is a UK-based cybersecurity company specializing in:
 ## 📬 Contact
 
 * Website: https://cybernexis.co.uk
-* Email: [info@cybernexis.co.uk](mailto:info@cybernexis.co.uk)
 
 ---
