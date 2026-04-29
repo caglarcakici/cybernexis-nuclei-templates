@@ -27,7 +27,7 @@ This repository focuses on:
 ## 🚀 Usage
 
 ```bash
-nuclei -u https://target:2087 -t cpanel/
+nuclei -u https://target:2087 -t cpanel-whm-auth-bypass-exposure-cve-2026-41940.yaml
 ```
 
 ## ⚠️ Design Principles
